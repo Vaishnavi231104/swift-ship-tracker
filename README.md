@@ -52,7 +52,7 @@ This repository contains the full suite of deployment files and documentation re
 
 The core database model, automation parameters, and permission frameworks have been securely bundled into a native Salesforce Unmanaged Package. System administrators can deploy this foundational architecture directly into an alternate Salesforce Environment or Sandbox:
 
-➡️ **[Click Here to Install the SwiftShip Tracker Package]((https://login.salesforce.com/packaging/installPackage.apexp?p0=04tgL000000Hv1t))**
+➡️ **[Click Here to Install the SwiftShip Tracker Package](PASTE_YOUR_SALESFORCE_PACKAGE_INSTALLATION_URL_HERE(https://login.salesforce.com/packaging/installPackage.apexp?p0=04tgL000000Hv1t))**
 
 *Note: If you encounter a namespace collision warning during testing, please ensure you are installing the package into a separate Salesforce testing environment or playground, as Salesforce blocks installing unmanaged packages back into their native source org.*
 
