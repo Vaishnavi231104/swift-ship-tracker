@@ -9,7 +9,7 @@ The architecture bridges critical visibility gaps by automating milestone update
 All project requirements, architectural configurations, schema screenshots, and code components are fully consolidated into a single, comprehensive PDF document.
 
 - **📥 Complete Documentation:** [Click here to view or download the PDF](SWIFT%20SHIP%20TRACKER%20-%20SALESFORCE%20PROJECT%20DOCUMENTATION.pdf)
-- **🎥 Presentation Demo Video:** [[Insert Link to your Google Drive, Loom, or YouTube presentation here](https://youtu.be/PFFnBUtngOY)]
+- **🎥 Presentation Demo Video:** [[Link to my YouTube presentation here](https://youtu.be/PFFnBUtngOY)]
 
 ---
 
